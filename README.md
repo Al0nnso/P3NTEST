@@ -1,4 +1,4 @@
-# 💻 PENTEST NOTES
+# 💻 PENTEST NOTES 💻
 
 ## TOPICS
 `* not complete`
