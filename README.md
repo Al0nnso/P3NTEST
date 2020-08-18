@@ -1,10 +1,5 @@
 # 💻 PENTEST NOTES
 
-## PRINCIPIOS
-
-- No validation / sanitization in the user input
-- Direct access to server / databse
-
 ## TOPICS
 
 - 📋 [ENUMERATION](BUG%20BOUNTY%20595f3a9ee1464e5183127e981679145f/ENUMERATION%20faa5a839085148d781a8e66ab14d2443.md)
@@ -18,3 +13,8 @@
 - 🐝 [OWASP](BUG%20BOUNTY%20595f3a9ee1464e5183127e981679145f/OWASP%20a8681dc402a447439b5f02a5fefeff32.md)
 
 - 📊 [VULNERABILITIES](BUG%20BOUNTY%20595f3a9ee1464e5183127e981679145f/VULNERABILITIES%2014611edc05b64125b1ff0e403c6794f3.md)
+
+## PRINCIPIOS
+
+- No validation / sanitization in the user input
+- Direct access to server / databse
