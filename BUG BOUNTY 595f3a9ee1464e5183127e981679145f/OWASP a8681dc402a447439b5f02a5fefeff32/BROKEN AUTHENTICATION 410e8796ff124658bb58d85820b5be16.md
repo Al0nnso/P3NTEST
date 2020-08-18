@@ -7,7 +7,7 @@ When the website allow weak passwords
 
 - Exposed cookies / ids in the URL
 
-[SESSION HIJACKING](BROKEN%20AUTHENTICATION%20410e8796ff124658bb58d85820b5be16/SESSION%20HIJACKING%205680569d402c459c82b312dd25038512.md)
+- 🎫 [SESSION HIJACKING](BROKEN%20AUTHENTICATION%20410e8796ff124658bb58d85820b5be16/SESSION%20HIJACKING%205680569d402c459c82b312dd25038512.md)
 
 - If the website permits bruteforce tentatives or weak passwords
 - If the recovery methods is weak (knowledge-based aswers)
