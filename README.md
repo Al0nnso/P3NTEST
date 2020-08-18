@@ -1,4 +1,4 @@
-# BUG BOUNTY
+# PENTEST
 
 ## PRINCIPIOS
 
