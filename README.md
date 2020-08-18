@@ -15,7 +15,7 @@
 
 - 🐝 [OWASP](BUG%20BOUNTY%20595f3a9ee1464e5183127e981679145f/OWASP%20a8681dc402a447439b5f02a5fefeff32.md)*
 
-## PRINCIPIOS
+## PRINCIPLES
 
 - No validation / sanitization in the user input
 - Direct access to server / databse
