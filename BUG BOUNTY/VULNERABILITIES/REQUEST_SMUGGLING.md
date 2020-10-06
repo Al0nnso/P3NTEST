@@ -1,7 +1,5 @@
 # REQUEST SMUGGLING
 
-[EXAMPLE REPORT](REQUEST%20SMUGGLING%20f9843d63454f4b50bbe6705db530b773/EXAMPLE%20REPORT%20cf91a037a48143ddb3e1fd345a51900f.md)
-
 ### **CL . TE**
 
 **The front-end check length and the back-end check the encoding**
