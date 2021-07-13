@@ -1,4 +1,4 @@
-# 💻 PENTEST NOTES 💻
+# 💻 BUG BOUNTY NOTES 💻
 
 ## TOPICS
 `* not complete`
