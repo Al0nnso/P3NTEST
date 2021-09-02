@@ -10,7 +10,7 @@ select * from Usuarios where email='"+ email + "'and senha='"+ senha + " ' ";
 **INJECTION**  
 `'or 1=1#`
 ```sql
-select * from Usuarios whre email=''or 1=1#'and senha='32425435453'
+select * from Usuarios where email=''or 1=1#'and senha='32425435453'
 ```
 **PREVENTION**
 - Sanitization API
